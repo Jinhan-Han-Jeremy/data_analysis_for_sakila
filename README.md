@@ -2,6 +2,7 @@
 ## Descriptive analysis and prescriptive analysis
 
 analysis_for_sakila_film_db
+File : - sakila.db-
 Used tables : film, film_category, category, nicer_but_slower_film_list, inventory, rental, film_actor, actor, payment and inventory
 
 File : - sakila_analysis.sql-
