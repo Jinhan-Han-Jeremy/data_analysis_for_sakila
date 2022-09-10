@@ -1,21 +1,28 @@
 ## data_analysis_for_sakila
 ## Descriptive analysis and prescriptive analysis
+
 analysis_for_sakila_film_db
 Used tables : film, film_category, category, nicer_but_slower_film_list, inventory, rental, film_actor, actor, payment and inventory
 
-This analysis analyzed data in mysql such as inner join, subqueries, date timeseries, condtion statements and so on
+File : - sakila_analysis.sql-
+This analysis analyzed data in mysql such as inner join, subqueries, date timeseries, condtion statements..
+and so on
 
+File : - sakila_data_analysis.ipynb-
 This analysis preprocessed data in python
 This analysis visualized film data in python
 
 ## conda install -c anaconda mysql-connector-python
 ## pip install pymysql
+
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import sqlite3
 import matplotlib.pyplot as plt
 import pymysql
+
+
 ### Exported df made by MYSQL connecting mysql server
 ### Python preprocessed df and visualized data
 
