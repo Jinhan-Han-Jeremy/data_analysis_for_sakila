@@ -1,9 +1,9 @@
 ## data_analysis_for_sakila
 ## Descriptive analysis and prescriptive analysis
 
-analysis_for_sakila_film_db <br/ >
-File : - sakila.db- <br/ >
-Used tables : film, film_category, category, nicer_but_slower_film_list, inventory, rental, film_actor, actor, payment and inventory <br/ >
+analysis_for_sakila_film_db <br />
+File : - sakila.db- <br />
+Used tables : film, film_category, category, nicer_but_slower_film_list, inventory, rental, film_actor, actor, payment and inventory <br />
 
 File : - sakila_analysis.sql-
 This analysis analyzed data in mysql such as inner join, subqueries, date timeseries, condtion statements..
