@@ -15,12 +15,12 @@ This analysis visualized film data in python
 ## conda install -c anaconda mysql-connector-python
 ## pip install pymysql
 
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import sqlite3
-import matplotlib.pyplot as plt
-import pymysql
+import numpy as np <br/>
+import pandas as pd <br/>
+import seaborn as sns <br/>
+import sqlite3 <br/>
+import matplotlib.pyplot as plt <br/>
+import pymysql <br/>
 
 
 ### Exported df made by MYSQL connecting mysql server
