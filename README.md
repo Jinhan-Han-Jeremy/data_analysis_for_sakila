@@ -11,8 +11,8 @@ This analysis visualized film data in python
 ## conda install -c anaconda mysql-connector-python
 ## pip install pymysql
 
-## Exported df made by MYSQL connecting mysql server
-## Python preprocessed df and visualized data
+### Exported df made by MYSQL connecting mysql server
+### Python preprocessed df and visualized data
 
 ### Analysis of film data by categories - Finding films of high values by categories
 Made sales of each categories are present in 'film' table
