@@ -10,9 +10,15 @@ This analysis visualized film data in python
 
 ## conda install -c anaconda mysql-connector-python
 ## pip install pymysql
-
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import sqlite3
+import matplotlib.pyplot as plt
+import pymysql
 ### Exported df made by MYSQL connecting mysql server
 ### Python preprocessed df and visualized data
+
 
 ### Analysis of film data by categories - Finding films of high values by categories
 Made sales of each categories are present in 'film' table
