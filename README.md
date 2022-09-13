@@ -33,10 +33,10 @@ Made sales of each categories are present in 'film' table
 Visualized sales of each categories in piechart
 
 Made the data frame for the average rental duration of films of each category  <br/>
-- Used tables(film JOIN film_category JOIN category)<br/>
+Used tables(film JOIN film_category JOIN category)<br/>
 
 Made the data frame for total rental sales of films in different categories  <br/>
-- Used tables(nicer_but_slower_film_list JOIN inventory JOIN rental)<br/>
+Used tables(nicer_but_slower_film_list JOIN inventory JOIN rental)<br/>
 Visualized total_rental_sales in bar chart<br/>
 
 ### Analysis of film data by ratings - Finding films of high values by ratings
