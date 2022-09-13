@@ -26,6 +26,7 @@ import pymysql <br/>
 
 ### Exported df made by MYSQL connecting mysql server
 ### Python preprocessed df and visualized data
+ALL WORKS and ANALYSIS ARE IN sakila_data_analysis.ipynb-
 
 
 ### Analysis of film data by categories - Finding films of high values by categories
