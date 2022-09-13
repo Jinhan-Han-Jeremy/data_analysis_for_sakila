@@ -54,7 +54,7 @@ Visualized total sales per the total rental month by two stores in line chart
 Compared the total rental sales of two stores
 
 Made data frame for the 5 'G' rated films that have lowest replacement cost and atmost 3 copies of itself in the inventory
- - Used table (film JOIN inventory )
+Used table (film JOIN inventory )
 
 ### Analysis of replacement cost
 Visualized replacement_cost of films in box plot
