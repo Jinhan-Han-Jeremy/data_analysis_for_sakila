@@ -40,7 +40,7 @@ Used tables(nicer_but_slower_film_list JOIN inventory JOIN rental)<br/>
 Visualized total_rental_sales in bar chart<br/>
 
 ### Analysis of film data by ratings - Finding films of high values by ratings
-Made the data frame for films of each rating are present  - Used table(film)
+Made the data frame for films of each rating are present  - Used table(film)<br/>
 Visualized films of each rating in bar chart
 
 ### Analysis of actor data by count(film) - Finding actors of high values
